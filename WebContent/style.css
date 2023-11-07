@@ -12,6 +12,10 @@ h1{
 	color: #66bbff;
 }
 
+.agenda{
+	width:30%;
+}
+
 .botao{
 	color: #000000;
 	text-decoration: none;
@@ -36,4 +40,22 @@ h1{
 	margin-top: 10px;
 	border: 1px solid #66bbff;
 	border-radius:5px;
+}
+
+#tabela{
+	margin-top: 30px;
+	border-collapse:collapse;
+}
+
+#tabela th{
+	border: 1px solid black;
+	padding: 10px;
+	text-align: left;
+	background-color: #66bbff;
+	color: #fff;
+}
+
+#tabela td{
+	border: 1px solid black;
+	padding: 10px;
 }
