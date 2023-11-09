@@ -27,6 +27,17 @@ h1{
 	cursor: pointer;
 }
 
+.botao2{
+	color: #000000;
+	text-decoration: none;
+	background-color:#ee6f78;
+	padding: 10px;
+	font-weight:bold;
+	border-radius: 10px;
+	border: 0;
+	cursor: pointer;
+}
+
 .caixa{
 	width:320px;
 	padding:5px;
@@ -40,6 +51,15 @@ h1{
 	margin-top: 10px;
 	border: 1px solid #66bbff;
 	border-radius:5px;
+}
+
+#caixaid{
+	width:100px;
+	padding:5px;
+	margin-top: 10px;
+	border: 1px solid #ff0000;
+	border-radius:5px;
+	
 }
 
 #tabela{
